@@ -1,4 +1,3 @@
-
 def fruit_reconiser() :
   while True :
    fruits = ['banana','strawberrie','grape','apple','watermelon','orange','blueberrie','lemon']
